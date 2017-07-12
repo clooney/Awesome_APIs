@@ -91,6 +91,7 @@
 + [快递鸟](http://www.kdniao.com/) - 快递鸟支持国内外400多家快递公司，免费版有使用次数限制，包含.Net, PHP, Java版Demo。
 + [快递网](http://www.kuaidi.com/openapi.html) - 快递网支持上百家快递查询服务，免费版有使用次数限制。
 + [快递网(非官方)](https://github.com/jokermonn/-Api/blob/master/ExpressDelivery.md) - 快递网支持上百家快递查询服务。 #非官方
++ [Trackingmore](https://www.trackingmore.com/api-index-cn.html) - Trackingmore国际快递查询网支持400多家国内外快递查询服务，免费版有使用次数限制。 
 
 #### 旅游
 + [12306(非官方)](https://github.com/jokermonn/-Api/blob/master/12306.md) - 支持获取12306火车票票数、票价查询。 #非官方
